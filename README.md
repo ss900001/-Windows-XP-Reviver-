@@ -20,7 +20,7 @@ The VC Redist (Visual C++ Redistributable) is essential for Windows XP, ensuring
 
 
 ## 📥 Download
-👉 [Download from Google Drive][(https://drive.google.com/your-app-link](https://drive.google.com/file/d/1rPFhuAPTidmMZSfJsGdOI5JYHFDes1UQ/view?usp=drive_link))
+👉 [Download from Google Drive][(https://drive.google.com/file/d/1rPFhuAPTidmMZSfJsGdOI5JYHFDes1UQ/view?usp=drive_link)]
 ## 📝 License
 MIT License
 
